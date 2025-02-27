@@ -1,3 +1,4 @@
-import _ from "lodash";
-console.log(_.last(["one", "two"]));
-console.log("Hello, Hexlet!");
+import getLastItem from './src/index.js';
+const arr = [1, 2, 3, 4];
+const lastItem = getLastItem(arr);
+console.log(`Последний элемент массива: ${lastItem}`);
