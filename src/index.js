@@ -1,8 +1,8 @@
-import _ from "lodash";
+import _ from 'lodash';
 
 const getLastItem = (arr) => {
-const lastItem = _.last(arr);
-return lastItem;
-}
+  const lastItem = _.last(arr);
+  return lastItem;
+};
 
 export default getLastItem;

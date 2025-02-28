@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/AnastasiaVAV/hexlet-js#readme",
   "dependencies": {
+    "commander": "^13.1.0",
     "lodash": "^4.17.21"
   },
   "devDependencies": {

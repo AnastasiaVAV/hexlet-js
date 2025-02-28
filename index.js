@@ -1,4 +1,4 @@
-import getLastItem from './src/index.js';
+import getLastItem from './src/index';
 
 const arr = [1, 2, 3, 4];
 const lastItem = getLastItem(arr);
